@@ -4,7 +4,7 @@
 <a href="https://github.com/viniciusfcf/"><img src="https://img.shields.io/github/followers/viniciusfcf?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/viniciusfcf?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viniciusfcf&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viniciusfcf&show_icons=true)
 
 
 
