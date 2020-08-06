@@ -10,12 +10,4 @@
 
 
 
-##  About me
-
-- Name: Vinícius Ferraz Campos Florentino
-- Twitter: [@viniciusfcf](https://twitter.com/viniciusfcf)
-- LinkedIn: [linkedin.com/in/viniciusfcf](https://www.linkedin.com/in/viniciusfcf)
-
-
-
 
