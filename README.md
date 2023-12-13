@@ -7,9 +7,3 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viniciusfcf&show_icons=true)
 
 
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=quarkusio/quarkus,micronaut-projects/micronaut-core,helidon-io/helidon,OpenLiberty/open-liberty&type=Date)](https://star-history.com/#quarkusio/quarkus&micronaut-projects/micronaut-core&helidon-io/helidon&OpenLiberty/open-liberty&Date)
-
